@@ -2,6 +2,6 @@
   "tag": "sf_18",
   "status": "stable",
   "published_at": "2026-01-31T14:33:53Z",
-  "filter_pattern": "x86-64-avxvnni",
-  "updated_at": "2026-05-12T10:38:03Z"
+  "filter_pattern": "x86-64.zip|x86-64.tar",
+  "updated_at": "2026-05-12T11:33:10Z"
 }
