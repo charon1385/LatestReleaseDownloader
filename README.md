@@ -185,4 +185,16 @@ sha256sum FILE_NAME
 | `stockfish-ubuntu-x86-64.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64.tar.001) |
 | `stockfish-ubuntu-x86-64.tar (part 2 of 2)` | 19.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64.tar.002) |
 | `stockfish-windows-x86-64.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64.zip) |
+
+---
+
+<div id="rooklift--nibbler"></div>
+
+### rooklift--nibbler
+
+🔗 [source](https://github.com/rooklift/nibbler) – [<code><small>v2.5.8</small></code>](https://github.com/rooklift/nibbler/releases/tag/v2.5.8)
+
+| File | Size | Download |
+|------|------|----------|
+| `nibbler-2.5.8-windows.zip` | 67.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/rooklift/nibbler/nibbler-2.5.8-windows.zip) |
 <!-- RELEASES_END -->
