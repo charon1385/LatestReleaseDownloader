@@ -157,5 +157,77 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="happ-proxy--happ-desktop"></div>
 
+### Happ-proxy--happ-desktop
+
+🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.14.0</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.14.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `Happ.linux.arm64.deb` | 67.7 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.deb) |
+| `Happ.linux.arm64.pkg.tar.zst` | 67.2 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.pkg.tar.zst) |
+| `Happ.linux.arm64.rpm` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/Happ.linux.arm64.rpm) |
+| `Happ.linux.x64.deb` | 72.0 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.deb) |
+| `Happ.linux.x64.pkg.tar.zst` | 71.2 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.pkg.tar.zst) |
+| `Happ.linux.x64.rpm` | 94.9 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/Happ.linux.x64.rpm) |
+| `Happ.macOS.universal.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/Happ.macOS.universal.dmg.001) |
+| `Happ.macOS.universal.dmg (part 2 of 2)` | 35.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/Happ.macOS.universal.dmg.002) |
+| `setup-Happ.x64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.001) |
+| `setup-Happ.x64.exe (part 2 of 2)` | 21.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.002) |
+
+---
+
+<div id="official-stockfish--stockfish"></div>
+
+### official-stockfish--Stockfish
+
+🔗 [source](https://github.com/official-stockfish/Stockfish) – [<code><small>sf_18</small></code>](https://github.com/official-stockfish/Stockfish/releases/tag/sf_18)
+
+| File | Size | Download |
+|------|------|----------|
+| `stockfish-android-armv7-neon.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-android-armv7-neon.tar.001) |
+| `stockfish-android-armv7-neon.tar (part 2 of 2)` | 19.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-android-armv7-neon.tar.002) |
+| `stockfish-android-armv7.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-android-armv7.tar.001) |
+| `stockfish-android-armv7.tar (part 2 of 2)` | 19.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-android-armv7.tar.002) |
+| `stockfish-android-armv8-dotprod.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-android-armv8-dotprod.tar.001) |
+| `stockfish-android-armv8-dotprod.tar (part 2 of 2)` | 20.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-android-armv8-dotprod.tar.002) |
+| `stockfish-android-armv8.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-android-armv8.tar.001) |
+| `stockfish-android-armv8.tar (part 2 of 2)` | 20.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-android-armv8.tar.002) |
+| `stockfish-macos-m1-apple-silicon.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-m1-apple-silicon.tar.001) |
+| `stockfish-macos-m1-apple-silicon.tar (part 2 of 2)` | 19.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-m1-apple-silicon.tar.002) |
+| `stockfish-macos-x86-64-avx2.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64-avx2.tar.001) |
+| `stockfish-macos-x86-64-avx2.tar (part 2 of 2)` | 19.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64-avx2.tar.002) |
+| `stockfish-macos-x86-64-bmi2.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64-bmi2.tar.001) |
+| `stockfish-macos-x86-64-bmi2.tar (part 2 of 2)` | 19.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64-bmi2.tar.002) |
+| `stockfish-macos-x86-64-sse41-popcnt.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64-sse41-popcnt.tar.001) |
+| `stockfish-macos-x86-64-sse41-popcnt.tar (part 2 of 2)` | 19.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64-sse41-popcnt.tar.002) |
+| `stockfish-macos-x86-64.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64.tar.001) |
+| `stockfish-macos-x86-64.tar (part 2 of 2)` | 19.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64.tar.002) |
+| `stockfish-ubuntu-x86-64-avx2.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avx2.tar.001) |
+| `stockfish-ubuntu-x86-64-avx2.tar (part 2 of 2)` | 19.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avx2.tar.002) |
+| `stockfish-ubuntu-x86-64-avx512icl.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avx512icl.tar.001) |
+| `stockfish-ubuntu-x86-64-avx512icl.tar (part 2 of 2)` | 19.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avx512icl.tar.002) |
+| `stockfish-ubuntu-x86-64-avx512.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avx512.tar.001) |
+| `stockfish-ubuntu-x86-64-avx512.tar (part 2 of 2)` | 19.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avx512.tar.002) |
+| `stockfish-ubuntu-x86-64-avxvnni.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avxvnni.tar.001) |
+| `stockfish-ubuntu-x86-64-avxvnni.tar (part 2 of 2)` | 19.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avxvnni.tar.002) |
+| `stockfish-ubuntu-x86-64-bmi2.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-bmi2.tar.001) |
+| `stockfish-ubuntu-x86-64-bmi2.tar (part 2 of 2)` | 19.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-bmi2.tar.002) |
+| `stockfish-ubuntu-x86-64-sse41-popcnt.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-sse41-popcnt.tar.001) |
+| `stockfish-ubuntu-x86-64-sse41-popcnt.tar (part 2 of 2)` | 19.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-sse41-popcnt.tar.002) |
+| `stockfish-ubuntu-x86-64-vnni512.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-vnni512.tar.001) |
+| `stockfish-ubuntu-x86-64-vnni512.tar (part 2 of 2)` | 19.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-vnni512.tar.002) |
+| `stockfish-ubuntu-x86-64.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64.tar.001) |
+| `stockfish-ubuntu-x86-64.tar (part 2 of 2)` | 19.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64.tar.002) |
+| `stockfish-windows-armv8.zip` | 73.2 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-armv8.zip) |
+| `stockfish-windows-armv8-dotprod.zip` | 73.2 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-armv8-dotprod.zip) |
+| `stockfish-windows-x86-64.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64.zip) |
+| `stockfish-windows-x86-64-avx2.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64-avx2.zip) |
+| `stockfish-windows-x86-64-avx512.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64-avx512.zip) |
+| `stockfish-windows-x86-64-avx512icl.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64-avx512icl.zip) |
+| `stockfish-windows-x86-64-avxvnni.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64-avxvnni.zip) |
+| `stockfish-windows-x86-64-bmi2.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64-bmi2.zip) |
+| `stockfish-windows-x86-64-sse41-popcnt.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64-sse41-popcnt.zip) |
+| `stockfish-windows-x86-64-vnni512.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64-vnni512.zip) |
 <!-- RELEASES_END -->
