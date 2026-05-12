@@ -4,5 +4,5 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 Happ-proxy/happ-desktop|\.exe|\.deb
-official-stockfish/Stockfish|x86-64-avxvnni
-OTAKUWeBer/ChessPilot|\.exe
+official-stockfish/Stockfish|x86-64.zip|x86-64.tar
+# OTAKUWeBer/ChessPilot|\.exe
