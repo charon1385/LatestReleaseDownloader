@@ -172,19 +172,6 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="otakuweber--chesspilot"></div>
-
-### OTAKUWeBer--ChessPilot
-
-🔗 [source](https://github.com/OTAKUWeBer/ChessPilot) – [<code><small>v2.2.0</small></code>](https://github.com/OTAKUWeBer/ChessPilot/releases/tag/v2.2.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `ChessPilot-2.2.0-windows-x64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/OTAKUWeBer/ChessPilot/ChessPilot-2.2.0-windows-x64.exe.001) |
-| `ChessPilot-2.2.0-windows-x64.exe (part 2 of 2)` | 23.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/OTAKUWeBer/ChessPilot/ChessPilot-2.2.0-windows-x64.exe.002) |
-
----
-
 <div id="official-stockfish--stockfish"></div>
 
 ### official-stockfish--Stockfish
@@ -193,7 +180,9 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `stockfish-ubuntu-x86-64-avxvnni.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avxvnni.tar.001) |
-| `stockfish-ubuntu-x86-64-avxvnni.tar (part 2 of 2)` | 19.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64-avxvnni.tar.002) |
-| `stockfish-windows-x86-64-avxvnni.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64-avxvnni.zip) |
+| `stockfish-macos-x86-64.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64.tar.001) |
+| `stockfish-macos-x86-64.tar (part 2 of 2)` | 19.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-macos-x86-64.tar.002) |
+| `stockfish-ubuntu-x86-64.tar (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64.tar.001) |
+| `stockfish-ubuntu-x86-64.tar (part 2 of 2)` | 19.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-ubuntu-x86-64.tar.002) |
+| `stockfish-windows-x86-64.zip` | 73.3 MB | [⬇️ Download](https://raw.githubusercontent.com/charon1385/LatestReleaseDownloader/main/releases/official-stockfish/Stockfish/stockfish-windows-x86-64.zip) |
 <!-- RELEASES_END -->
