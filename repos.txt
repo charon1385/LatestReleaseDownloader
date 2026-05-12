@@ -6,3 +6,4 @@
 Happ-proxy/happ-desktop|\.exe|\.deb
 official-stockfish/Stockfish|x86-64.zip|x86-64.tar
 # OTAKUWeBer/ChessPilot|\.exe
+rooklift/nibbler|windows
